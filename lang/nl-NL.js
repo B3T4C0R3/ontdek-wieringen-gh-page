@@ -19,6 +19,8 @@ export default () => {
         created_by: 'Gemaakt door'
       },
       ow: {
+        close: 'Sluiten',
+        site: 'Website',
         'header_#agenda': 'Agenda',
         'header_#wieringen': 'Wieringen',
         header_kaart: 'Kaart',
