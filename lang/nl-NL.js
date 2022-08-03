@@ -25,6 +25,7 @@ export default () => {
         'header_#wieringen': 'Wieringen',
         header_kaart: 'Kaart',
         header_contact: 'Contact',
+        header_companies: 'Partners',
         view_map: 'Bekijk hier de kaart!',
         about2_title: 'Wieringen',
         about2_schat_title: 'Vikingschat',
