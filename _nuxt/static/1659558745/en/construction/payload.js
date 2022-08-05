@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/construction", {data:[{}],fetch:[],mutations:[]});
