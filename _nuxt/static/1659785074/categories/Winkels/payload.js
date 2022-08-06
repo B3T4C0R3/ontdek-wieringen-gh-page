@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/categories/Winkels", {data:[],fetch:[],mutations:[]});

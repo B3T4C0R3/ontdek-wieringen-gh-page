@@ -19,6 +19,8 @@ export default () => {
         created_by: 'Gemaakt door'
       },
       ow: {
+        welcome: 'Welkom!',
+        searching_for: 'Ontdek Wieringen:',
         close: 'Sluiten',
         site: 'Website',
         'header_#agenda': 'Agenda',

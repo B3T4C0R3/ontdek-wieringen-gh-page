@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/categories/Cultuur", {data:[],fetch:[],mutations:[]});
