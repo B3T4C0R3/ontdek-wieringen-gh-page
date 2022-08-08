@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/categories/Uitgaan %26 Eten", {data:[],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/categories/Recreatie", {data:[],fetch:[],mutations:[]});

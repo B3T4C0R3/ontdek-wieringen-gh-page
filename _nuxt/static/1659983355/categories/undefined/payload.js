@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/categories/undefined", {data:[{category:"undefined",locations:[]}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/categories/Overnachten", {data:[],fetch:[],mutations:[]});

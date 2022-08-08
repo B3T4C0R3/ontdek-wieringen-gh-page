@@ -41,6 +41,11 @@ export default () => {
         header_contact: 'Contact',
         header_companies: 'Partners',
         view_map: 'Bekijk hier de kaart!',
+        about_text1: 'De geschiedenis van het oude eiland Wieringen gaat tot vele eeuwen terug. Het glooiende landschap is ontstaan in de laatste ijstijd. De hoogtes en laagtes zie je overal terug wanneer je over de vele weggetjes wandelt of fietst. Gaandeweg ontdek je steeds meer mooie uitzichten over het landscap en het zoete en zoute water.',
+        about_text2: 'Op Wieringen voel je de geschiedenis. Diverse musea bieden een kijkje in de verassende wereld van boeren, vissers en vikingen.',
+        about_text3: 'In de knusse dorpen op Wieringen is er altijd wat te zien en te beleven. Hier vind je de leukste winkeltjes en (lokale) producten. In de zomerperiode worden diverse gezellige evenementen georganiseerd, van markten tot kermissen.',
+        about_text4: 'Verscheidene restaurants en horeca bieden een heerlijk moment om even te genieten van het leven. Neem zeker even een bezoek en geniet van de goede (lokale) vis- en vleesproducten. Of neem een lekker tussendoortje langs de weg.',
+        about_text5: 'Voor bezoekers aan Wieringen zijn diverse overnachtingsplekken beschikbaar, van camperplaats en campings tot verschillende b&b. Wieringen is beslist de moeite waard om meerdere dagen te verkennen.',
         about2_title: 'Wieringen',
         about2_schat_title: 'Vikingschat',
         about2_schat_text:
