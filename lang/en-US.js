@@ -15,9 +15,22 @@ export default () => {
         cookies3: '.',
         en: 'English',
         nl: 'Dutch',
+        de: 'German',
         created_by: 'Made by'
       },
       ow: {
+        welcome: 'Welcome!',
+        about_text1:
+          'The history of the old island of Wieringen goes back many centuries. The rolling landscape was created during the last ice age. You can see the highs and lows everywhere when you walk or cycle on the many roads. Gradually you discover more and more beautiful views over the landscape and the fresh and salt water.',
+        about_text2:
+          'At Wieringen you can feel the history. Various museums offer a glimpse into the surprising world of farmers, fishermen and Vikings.',
+        about_text3:
+          'In the cozy villages on Wieringen there is always something to see and experience. Here you will find the best shops and (local) products. In the summer period, various fun events are organized, from markets to fairs.',
+        about_text4:
+          'Several restaurants and catering establishments offer a wonderful moment to enjoy life. Be sure to visit and enjoy the good (local) fish and meat products. Or take a nice snack along the way.',
+        about_text5:
+          'Various overnight accommodations are available for visitors to Wieringen, from motorhome parking and campsites to various B&Bs. Wieringen is definitely worth exploring for several days.',
+        searching_for: 'Discover Wieringen:',
         close: 'Close',
         site: 'Website',
         'header_#agenda': 'Agenda',

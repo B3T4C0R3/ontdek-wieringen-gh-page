@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/de/cookies", {data:[{}],fetch:[],mutations:[]});

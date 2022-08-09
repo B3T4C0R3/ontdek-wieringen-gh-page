@@ -32,6 +32,13 @@ export default function() {
       name: 'English',
       file: 'en-US.js',
       dir: 'ltr'
+    },
+    {
+      code: 'de',
+      iso: 'de-DE',
+      name: 'German',
+      file: 'de-DE.js',
+      dir: 'ltr'
     }
   ]
 }
