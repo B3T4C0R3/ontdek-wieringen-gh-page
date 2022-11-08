@@ -77,7 +77,11 @@ export default () => {
         contact_success: 'Message sent! We will respond as soon as possible.',
         contact_error: 'Something went wrong, please try again later.',
         footer_link: 'Links',
-        more: 'More'
+        more: 'More',
+        phone_contact: '+31 6 50121300',
+        email_contact: 'info@dewieringerboekhandel.nl',
+        required: 'Required',
+        email_invalid: 'Wrong E-mail'
       }
     })
   })

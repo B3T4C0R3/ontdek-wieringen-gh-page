@@ -81,7 +81,11 @@ export default () => {
         contact_error:
           'Etwas ist schief gelaufen, bitte versuchen Sie es später erneut.',
         footer_link: 'Links',
-        more: 'Mehr'
+        more: 'Mehr',
+        phone_contact: '+31 6 50121300',
+        email_contact: 'info@dewieringerboekhandel.nl',
+        required: 'Required',
+        email_invalid: 'Wrong E-mail'
       }
     })
   })

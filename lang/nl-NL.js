@@ -22,9 +22,9 @@ export default () => {
       ow: {
         welcome: 'Welkom!',
         about_text1:
-          'De geschiedenis van het oude eiland Wieringen gaat tot vele eeuwen terug. Het glooiende landschap is ontstaan in de laatste ijstijd. De hoogtes en laagtes zie je overal terug wanneer je over de vele weggetjes wandelt of fietst. Gaandeweg ontdek je steeds meer mooie uitzichten over het landscap en het zoete en zoute water.',
+          'De geschiedenis van het oude eiland Wieringen gaat tot vele eeuwen terug. Het glooiende landschap is ontstaan in de laatste ijstijd. De hoogtes en laagtes zie je overal terug wanneer je over de vele weggetjes wandelt of fietst. Gaandeweg ontdek je steeds meer mooie uitzichten over het landschap en het zoete en zoute water.',
         about_text2:
-          'Op Wieringen voel je de geschiedenis. Diverse musea bieden een kijkje in de verassende wereld van boeren, vissers en vikingen.',
+          'Op Wieringen voel je de geschiedenis. Diverse musea bieden een kijkje in de verrassende wereld van boeren, vissers en vikingen.',
         about_text3:
           'In de knusse dorpen op Wieringen is er altijd wat te zien en te beleven. Hier vind je de leukste winkeltjes en (lokale) producten. In de zomerperiode worden diverse gezellige evenementen georganiseerd, van markten tot kermissen.',
         about_text4:
@@ -79,7 +79,11 @@ export default () => {
           'Bericht verstuurd! Wij zullen zo spoedig mogelijk reageren.',
         contact_error: 'Er is iets fout gegaan, probeer het later opnieuw.',
         footer_link: 'Links',
-        more: 'Meer'
+        more: 'Meer',
+        phone_contact: '+31 6 50121300',
+        email_contact: 'info@dewieringerboekhandel.nl',
+        required: 'Vereist',
+        email_invalid: 'Verkeerd E-mailadres'
       }
     })
   })
