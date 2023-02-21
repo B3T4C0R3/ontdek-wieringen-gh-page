@@ -80,7 +80,7 @@ export default () => {
         contact_error: 'Er is iets fout gegaan, probeer het later opnieuw.',
         footer_link: 'Links',
         more: 'Meer',
-        phone_contact: '+31 6 50121300',
+        phone_contact: '0227595654',
         email_contact: 'info@dewieringerboekhandel.nl',
         required: 'Vereist',
         email_invalid: 'Verkeerd E-mailadres'

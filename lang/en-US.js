@@ -78,7 +78,7 @@ export default () => {
         contact_error: 'Something went wrong, please try again later.',
         footer_link: 'Links',
         more: 'More',
-        phone_contact: '+31 6 50121300',
+        phone_contact: '0227595654',
         email_contact: 'info@dewieringerboekhandel.nl',
         required: 'Required',
         email_invalid: 'Wrong E-mail'
