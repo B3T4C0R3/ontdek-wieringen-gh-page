@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kaart", {data:[{}],fetch:[],mutations:[]});

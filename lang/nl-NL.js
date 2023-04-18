@@ -83,7 +83,8 @@ export default () => {
         phone_contact: '0227595654',
         email_contact: 'info@dewieringerboekhandel.nl',
         required: 'Vereist',
-        email_invalid: 'Verkeerd E-mailadres'
+        email_invalid: 'Verkeerd E-mailadres',
+        map: 'kaart'
       }
     })
   })
