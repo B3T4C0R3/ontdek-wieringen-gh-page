@@ -78,11 +78,11 @@ export default () => {
         contact_error: 'Something went wrong, please try again later.',
         footer_link: 'Links',
         more: 'More',
-        phone_contact: '0227595654',
-        email_contact: 'info@dewieringerboekhandel.nl',
+        phone_contact: '0227609801',
+        email_contact: 'info@kleimeerassurantien.nl',
         required: 'Required',
         email_invalid: 'Wrong E-mail',
-        map: 'Map'
+        map: 'back'
       }
     })
   })
