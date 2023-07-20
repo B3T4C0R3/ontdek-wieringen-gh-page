@@ -52,6 +52,8 @@ export default () => {
         header_contact: 'Contact',
         header_companies: 'Partners',
         view_map: 'Bekijk hier de kaart!',
+        about_text:
+          'Welkom op Wieringen, een pittoresk juweeltje in Nederland! Genesteld tussen de uitgestrekte velden en de glinsterende Waddenzee, is Wieringen een betoverend eiland dat wacht om ontdekt te worden. Met zijn rijke geschiedenis, adembenemende landschappen en levendige gemeenschap biedt Wieringen een onvergetelijke reiservaring. Ontsnap aan de drukte van de stad en laat je betoveren door de rustige charme van dit verborgen pareltje. Of je nu op zoek bent naar avontuurlijke buitenactiviteiten, culturele ontdekkingen of gewoon ontspanning, Wieringen heeft voor elk wat wils. Verken historische monumenten, maak een wandeling langs de kronkelende dijken, proef de lokale gastronomie en geniet van de warme gastvrijheid van de Wieringers. Begin je reis naar Wieringen vandaag nog en dompel jezelf onder in de magie van dit unieke stukje Nederland!',
         about2_title: 'Wieringen',
         about2_schat_title: 'Vikingschat',
         about2_schat_text:

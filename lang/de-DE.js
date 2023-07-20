@@ -53,6 +53,7 @@ export default () => {
         header_contact: 'Kontakt',
         header_companies: 'Partner',
         view_map: 'Sehen Sie sich hier die Karte an!',
+        about_text: 'Herzlich willkommen auf Wieringen, einem malerischen Juwel in den Niederlanden! Eingebettet zwischen weiten Feldern und der glitzernden Wattenmeer, ist Wieringen eine bezaubernde Insel, die darauf wartet, entdeckt zu werden. Mit seiner reichen Geschichte, atemberaubenden Landschaften und lebendigen Gemeinschaft bietet Wieringen ein unvergessliches Reiseerlebnis. Entfliehen Sie dem Trubel der Stadt und lassen Sie sich von dem ruhigen Charme dieses versteckten Juwels faszinieren. Ob Sie Abenteuer im Freien, kulturelle Entdeckungen oder einfach nur Entspannung suchen, Wieringen hat für jeden etwas zu bieten. Erkunden Sie historische Sehenswürdigkeiten, schlendern Sie entlang verwunschener Deiche, genießen Sie die lokale Gastronomie und lassen Sie sich von der herzlichen Gastfreundschaft der Wieringer verwöhnen. Starten Sie noch heute Ihre Reise nach Wieringen und tauchen Sie ein in die Magie dieses einzigartigen Stücks der Niederlande!',
         about2_title: 'Wieringen',
         about2_schat_title: 'Wikingerschatz',
         about2_schat_text:
