@@ -86,7 +86,13 @@ export default () => {
         email_contact: 'info@kleimeerassurantien.nl',
         required: 'Vereist',
         email_invalid: 'Verkeerd E-mailadres',
-        map: 'terug'
+        map: 'terug',
+        Routes: 'Fiets- en wandelpaden',
+        back_to_routes: 'Terug naar routes',
+        bike_routes: 'Fietsroutes',
+        walk_routes: 'Wandelroutes',
+        download_route: 'Route downloaden',
+        header_routes: 'Routes'
       }
     })
   })

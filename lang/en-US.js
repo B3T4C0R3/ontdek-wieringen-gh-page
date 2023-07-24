@@ -50,6 +50,7 @@ export default () => {
         header_kaart: 'Map',
         header_contact: 'Contact',
         header_companies: 'Partners',
+        header_routes: 'Routes',
         view_map: 'View the map!',
         about_text:
           "Welcome to Wieringen, a picturesque gem in the Netherlands! Nestled amidst vast fields and the shimmering Wadden Sea, Wieringen is an enchanting island waiting to be discovered. With its rich history, breathtaking landscapes, and vibrant community, Wieringen offers an unforgettable travel experience. Escape the hustle and bustle of the city and be captivated by the tranquil charm of this hidden gem. Whether you're seeking adventurous outdoor activities, cultural discoveries, or simply relaxation, Wieringen has something for everyone. Explore historical landmarks, take a stroll along winding dikes, savor the local gastronomy, and indulge in the warm hospitality of the Wieringers. Start your journey to Wieringen today and immerse yourself in the magic of this unique piece of the Netherlands!",
@@ -84,7 +85,12 @@ export default () => {
         email_contact: 'info@kleimeerassurantien.nl',
         required: 'Required',
         email_invalid: 'Wrong E-mail',
-        map: 'back'
+        map: 'back',
+        Routes: 'Cycling and Walking Routes',
+        back_to_routes: 'Back to routes',
+        bike_routes: 'Bike routes',
+        walk_routes: 'Walking routes',
+        download_route: 'Download route'
       }
     })
   })
