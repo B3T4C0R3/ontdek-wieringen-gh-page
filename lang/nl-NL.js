@@ -39,7 +39,7 @@ export default () => {
         'header_#partners': 'Partners',
         'header_#kaart': 'Kaart',
         'header_#legenda': 'Legenda',
-        Overnachten: 'Overnachten',
+        Overnachten: 'Overnachten/Campings',
         Winkels: 'Winkels',
         Bezienswaardigheden: 'Bezienswaardigheden',
         Bedrijven: 'Bedrijven',
@@ -92,7 +92,9 @@ export default () => {
         bike_routes: 'Fietsroutes',
         walk_routes: 'Wandelroutes',
         download_route: 'Route downloaden',
-        header_routes: 'Routes'
+        header_routes: 'Routes',
+        ad:
+          'Zorgeloos op avontuur naar Wieringen? Kies voor de recreatieverzekeringen van Kleimeer Assurantiën! Bescherm uw caravan, camper en reis met uitstekende dekking en geniet volop van uw vakantie op dit prachtige eiland.'
       }
     })
   })
